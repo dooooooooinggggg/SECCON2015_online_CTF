@@ -30,13 +30,13 @@ We will update some challenges.
 
 ### Excercise
 
-50_Start SECCON CTF
+✔︎50_Start SECCON CTF
 
-50_Last Challenge (Thank you for playing)
+✔︎50_Last Challenge (Thank you for playing)
 
 ### Crypto
 
-100_Unzip the file
+✔︎100_Unzip the file
 
 △ 200_Find the prime numbers
 
