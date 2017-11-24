@@ -33,7 +33,7 @@ def main():
         if check == "Encrypted(44): waUqjjDGnYxVyvUOLN8HquEO0J5Dqkh/zr/3KXJCEnw=":
             break
 
-    print("arg_string")
+    print(arg_string)
 
 if __name__ == '__main__':
     main()
