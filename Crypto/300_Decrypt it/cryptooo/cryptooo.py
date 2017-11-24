@@ -21,18 +21,19 @@ answer_pre = "Encrypted(44): "
 
 def main():
 
-    arg_rand = ""
-    for i in range(24):
-        arg_rand += all_dic[random.randint(0,72)]
+    while True:
+        arg_rand = ""
+        for i in range(24):
+            arg_rands += all_dic[random.randint(0,72)]
 
-    arg_string = arg_pre + arg_rand + arg_end
-    print(arg_string)
+        arg_string = arg_pre + arg_rand + arg_end
+        print(arg_string)
 
-    check = commands.getoutput("./cryptooo " + arg_string)
-    print(check)
+        check = commands.getoutput("./cryptooo " + arg_string)
+        if check == "Encrypted(44): waUqjjDGnYxVyvUOLN8HquEO0J5Dqkh/zr/3KXJCEnw=":
+            break
 
-    # print(all_dic)
-    # print(len(all_dic))
+    print("arg_string")
 
 if __name__ == '__main__':
     main()
