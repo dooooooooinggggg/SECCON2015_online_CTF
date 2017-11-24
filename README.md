@@ -1,25 +1,9 @@
 # SECCON2015_online_CTF
-We will update some challenges.
-<!--
-##Top 10 Ranking(12/06/2015 15:00 JST)
-
-|Rank|Point|Team|
-|---|---|---|
-|1|6323|217|
-|2|6306|GoatskiN|
-|3|6302|PPP|
-|4|5302|m1z0r3|
-|5|5003|0x0|
-|6|4800|PwnThyBytes|
-|7|4702|Shellphish|
-|8|4700|CodeRed|
-|9|4600|KaSecon|
-|10|4505|Bushwhackers|
- -->
 
 ## できる問題とできない問題
 
 [SECCON 2015 Online CTF を、後追いでやる人のためのメモ](https://qiita.com/kusuwada/items/b838eed60e9ab6129184)
+
 
 後追いで出来る問題・出来ない問題
 タイトルに■がついているものは、既に出題環境が閉鎖されているなどの理由から、後追いでは出来ない問題です
@@ -101,3 +85,10 @@ We will update some challenges.
 400_Reverse-Engineering Hardware 1
 
 500_Reverse-Engineering Hardware 2
+
+
+
+
+## 参考としたサイト
+
+参考:[SECCON 2015 Online CTF を、後追いでみっちりやってみよう!](http://kusuwada.blogspot.jp/2016/02/seccon-2015-online-ctf.html)
