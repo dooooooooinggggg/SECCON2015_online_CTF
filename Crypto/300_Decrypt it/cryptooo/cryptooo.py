@@ -1,5 +1,4 @@
 # SECCON{aaaaaaaaaaaaaaaaaaaaaaaaaa}
-# 24文字の総当たり
 
 # $ ./cryptooo SECCON{                        }
 # $ ./cryptooo SECCON{aaaaaaaaaaaaaaaaaaaaaaaa}
