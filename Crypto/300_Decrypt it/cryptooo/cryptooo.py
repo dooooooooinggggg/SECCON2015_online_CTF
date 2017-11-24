@@ -24,7 +24,7 @@ def main():
     while True:
         arg_rand = ""
         for i in range(24):
-            arg_rands += all_dic[random.randint(0,72)]
+            arg_rand += all_dic[random.randint(0,72)]
 
         arg_string = arg_pre + arg_rand + arg_end
         print(arg_string)
